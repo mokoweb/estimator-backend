@@ -1,0 +1,15 @@
+[35mGET[39m		[34m/api/v1/on-covid-19/logs[39m		[33m201[39m		0.6127 ms
+[35mGET[39m		[34m/api/v1/on-covid-19/logs[39m		[33m201[39m		5.0995 ms
+[35mGET[39m		[34m/api/v1/on-covid-19/logs[39m		[33m201[39m		0.91 ms
+[35mGET[39m		[34m/api/v1/on-covid-19/logs[39m		[33m404[39m		8.511599 ms
+[35mGET[39m		[34m/api/v1/on-covid-19/logs[39m		[33m404[39m		7.0411 ms
+[35mGET[39m		[34m/api/v1/on-covid-19/logs[39m		[33m404[39m		6.0315 ms
+[35mGET[39m		[34m/api/v1/on-covid-19/logs[39m		[33m404[39m		7.2477 ms
+[35mGET[39m		[34m/api/v1/on-covid-19/logs[39m		[33m404[39m		9.158 ms
+[35mGET[39m		[34m/api/v1/on-covid-19/logs[39m		[33m404[39m		10.4975 ms
+[35mGET[39m		[34m/api/v1/on-covid-19/logs[39m		[33m404[39m		6.7682 ms
+[35mGET[39m		[34m/api/v1/on-covid-19/logs[39m		[33m404[39m		6.9571 ms
+[35mGET[39m		[34m/api/v1/on-covid-19/logs[39m		[33m404[39m		10.239901 ms
+[35mGET[39m		[34m/api/v1/on-covid-19/logs[39m		[33m404[39m		5.6402 ms
+[35mGET[39m		[34m/api/v1/on-covid-19/logs[39m		[33m404[39m		6.455099 ms
+[35mGET[39m		[34m/api/v1/on-covid-19/logs[39m		[33m404[39m		8.2677 ms
